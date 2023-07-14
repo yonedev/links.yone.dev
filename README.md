@@ -1,7 +1,5 @@
-# gndx.io
+# links.yone.dev
 
-A minimal landing page for your Social Networks and other shared links.
+Versión DIY de Linktree para compartir redes sociales y otros enlaces de interés de mi marca personal Yonedev
 
-![gndx.io](https://user-images.githubusercontent.com/10554486/181944426-ba1b32bf-0adf-44e5-b3b0-f99412932d78.png)
-
-A free Linktree alternative.
+![links.yone.dev](https://res.cloudinary.com/dcllw95id/images/v1689187983/yonedev/Yonedev-Github/Yonedev-Github.png?_i=AA)
